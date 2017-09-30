@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Local Time",
+		"gmt": -7
+	},
+	{
+		"name": "Barcelona",
+		"gmt": 2
+	},
+	{
+		"name": "Beijing",
+		"gmt": 8
+	},
+	{
+		"name": "Cairo",
+		"gmt": 2
+	},
+	{
+		"name": "Guadalajara",
+		"gmt": -5
+	},
+	{
+		"name": "London",
+		"gmt": 1
+	},
+	{
+		"name": "Manila",
+		"gmt": 8
+	},
+	{
+		"name": "New Delhi",
+		"gmt": 5.5
+	},
+	{
+		"name": "New York",
+		"gmt": -4
+	},
+	{
+		"name": "Sydney",
+		"gmt": 10
+	},
+	{
+		"name": "Tokyo",
+		"gmt": 9
+	}
+]
