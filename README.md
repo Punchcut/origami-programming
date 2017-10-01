@@ -5,19 +5,35 @@ This is a set of Origami Studio lesson files for showing UI designers the fundam
 
 The lessons use universal programming concepts to build a world clock app across a series of Origami Studio files. Each file focuses on a single programming concept, with comment patches to explain its effect on the app. 
 
-Topics covered:
-1. Data Types
-2. Output
-3. Input
-4. Math   
-   *Arithmetic, ratios, interpolation*
-5. State
-6. Logic  
-   *Boolean values, Boolean operators, relational operators*
-7. Repetition  
-   *Iteration, recursion*
-8. Data Structures  
-   *Arrays, objects, JSON*
+Topics:
+
+1. **Data Types**
+
+
+2. **Output**
+
+
+3. **Input**
+
+
+4. **Math**  
+Arithmetic, Ratios, Interpolation
+
+
+5. **State**
+
+
+6. **Logic**  
+Boolean Values, Boolean Operators, Relational Operators
+
+
+7. **Repetition**  
+Iteration, Recursion
+
+
+8. **Data Structures**  
+Arrays, Objects, JSON
+
 
 ![Sample App][app]
 
