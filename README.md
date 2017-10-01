@@ -9,11 +9,15 @@ Topics covered:
 1. Data Types
 2. Output
 3. Input
-4. Math
+4. Math   
+   *Arithmetic, ratios, interpolation*
 5. State
-6. Logic
-7. Repetition
-8. Data Structures
+6. Logic  
+   *Boolean values, Boolean operators, relational operators*
+7. Repetition  
+   *Iteration, recursion*
+8. Data Structures  
+   *Arrays, objects, JSON*
 
 ![Sample App][app]
 
