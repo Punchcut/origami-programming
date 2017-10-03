@@ -1,9 +1,13 @@
-Fundamentals of Programming in Origami Studio
+Unfolding the Art of Code with Origami Studio
 ====
 
-This is a set of Origami Studio lesson files for showing UI designers the fundamentals of programming.
+For designers interested in using code as a creative tool, Origami makes it possible to learn core programming concepts visually.
 
-The lessons use universal programming concepts to build a world clock app across a series of Origami Studio files. Each file focuses on a single programming concept, with comment patches to explain its effect on the app. 
+This repository contains a set of Origami Studio lesson files for showing UI designers the fundamentals of programming. The lessons use universal programming concepts to build a world clock app across a series of Origami Studio files. Each file focuses on a single programming concept, with comment patches to explain its effect on the app. 
+
+Read more about our perspective on programming and design at Punchcut.com:
+
+**[Unfolding the Art of Code with Origami Studio](http://punchcut.com/perspectives/unfolding-the-art-of-code-with-origami-studio)**
 
 Topics:
 
